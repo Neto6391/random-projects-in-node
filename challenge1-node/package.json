@@ -1,0 +1,20 @@
+{
+  "name": "challenge1-node",
+  "version": "1.0.0",
+  "description": "Você precisa implementar uma **API simples de pedidos** para um e-commerce. O foco é avaliar **organização do código, boas práticas e clareza da solução**, não a completude do sistema.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@eslint/json": "^0.13.2",
+    "eslint": "^9.36.0",
+    "globals": "^16.4.0"
+  }
+}
